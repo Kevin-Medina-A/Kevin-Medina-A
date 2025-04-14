@@ -1,7 +1,7 @@
 ### ¡BIENVENIDO! Soy Kevin Medina 🫱🏽‍🫲🏽 
 ### Ingeniero de Sistemas Enfocado al Desarrollo de Software
 
-<img src="https://raw.githubusercontent.com/Kevin-Medina-A/Kevin-Medina-A/main/Imagen-Representativa.png" width="65%" height="50%" alt="Lo sentimos, hay problemas con esta imagen">
+<img src="https://raw.githubusercontent.com/Kevin-Medina-A/Kevin-Medina-A/main/Imagen-Representativa.png" width="100%" height="50%" alt="Lo sentimos, hay problemas con esta imagen">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/mouredevapps?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/mouredev?style=social)](https://twitch.com/mouredev)
