@@ -3,13 +3,13 @@
 
 <img src="https://raw.githubusercontent.com/Kevin-Medina-A/Kevin-Medina-A/main/Imagen-Representativa.png" width="100%" height="400" alt="Lo sentimos, hay problemas con esta imagen">
 
-# 🎓 Soy un estudiante colombiano de Ingeniería de Sistemas, actualmente en mi séptimo semestre y con 20 años.
+#### 🎓 Soy un estudiante colombiano de Ingeniería de Sistemas, actualmente en mi séptimo semestre y con 20 años.
 Apasionado por la tecnología más allá de lo superficial, me mueve una curiosidad constante por comprender cómo funcionan en detalle las herramientas y sistemas que usamos todos los días.
 
-# 💡 Me motiva aprender haciendo.
+#### 💡 Me motiva aprender haciendo.
 Busco involucrarme en proyectos reales donde pueda aportar mis conocimientos, crecer profesionalmente y aprender de otros. Creo firmemente en el poder del trabajo en equipo como motor de innovación y éxito en el desarrollo de software.
 
-# 🤝 ¿Tienes un proyecto interesante o simplemente quieres intercambiar ideas?
+#### 🤝 ¿Tienes un proyecto interesante o simplemente quieres intercambiar ideas?
 Estoy abierto a colaborar, explorar nuevas tecnologías y asumir desafíos. No dudes en contactarme: cada experiencia es una oportunidad para seguir creciendo.
 
 > 👥 [Microsoft MVP](https://mvp.microsoft.com/es-es/PublicProfile/5004970) (Most Valuable Professional) in Developer Technologies
