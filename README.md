@@ -1,5 +1,5 @@
 ### ¡BIENVENIDO! Soy Kevin Medina 🫱🏽‍🫲🏽 
-### Ingeniero de Sistemas Enfocado al Desarrollo de Software
+### Estudiante de Séptimo Semestre de Ingeniería de Sistemas Enfocado al Desarrollo de Software
 
 <img src="https://raw.githubusercontent.com/Kevin-Medina-A/Kevin-Medina-A/main/Imagen-Representativa.png" width="100%" height="400" alt="Lo sentimos, hay problemas con esta imagen">
 
