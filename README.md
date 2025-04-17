@@ -18,6 +18,11 @@ Estoy abierto a colaborar, explorar nuevas tecnologías y asumir desafíos. No d
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://www.python.org/)
 </br>
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)](https://git-scm.com/)
+</br>
+[![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white&labelColor=101010)](https://www.figma.com/)
+</br>
+[![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white&labelColor=101010)](https://www.canva.com/)
+</br>
 
 # Únete al campus de programación de la comunidad
 
