@@ -1,9 +1,9 @@
-### ¡BIENVENIDO! Soy Kevin Medina 🫱🏽‍🫲🏽 
-### Estudiante de Séptimo Semestre de Ingeniería de Sistemas Enfocado al Desarrollo de Software
+### ¡BIENVENIDO! Soy Kevin Medina Acosta🫱🏽‍🫲🏽 
+### Estudiante de Noveno Semestre de Ingeniería de Sistemas Enfocado al Desarrollo de Software y Analisis de Datos
 
 <img src="https://raw.githubusercontent.com/Kevin-Medina-A/Kevin-Medina-A/main/Imagen-Representativa.png" width="100%" height="400" alt="Lo sentimos, hay problemas con esta imagen">
 
-#### 🎓 Soy un estudiante colombiano de Ingeniería de Sistemas, actualmente en mi séptimo semestre y con 20 años.
+#### 🎓 Soy un estudiante colombiano de Ingeniería de Sistemas, actualmente en mi noveno semestre y con 21 años.
 Apasionado por la tecnología más allá de lo superficial, me mueve una curiosidad constante por comprender cómo funcionan en detalle las herramientas y sistemas que usamos todos los días.
 
 #### 💡 Me motiva aprender haciendo.
@@ -24,20 +24,6 @@ Estoy abierto a colaborar, explorar nuevas tecnologías y asumir desafíos. No d
 [![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white&labelColor=101010)](https://www.canva.com/)
 </br>
 
-
-> **¿Buscas un extra?** Aquí encontrarás mis cursos editados por lecciones individuales, para avanzar a tu ritmo y guardar el progreso. También dispondrás de ejercicios y correcciones, test para validar tus conocimientos, examen y certificado público de finalización, soporte, foro de estudiantes, reunionnes grupales, cursos exclusivos y mucho más.
-> 
-## Algunos vídeos en YouTube:
-
-<table style="width:100%">
-<tr>
-<td>
-<a href="https://youtu.be/SavaU66KxQY">
-<img src="http://i3.ytimg.com/vi/SavaU66KxQY/maxresdefault.jpg">
-</a>
-</td>
-</tr>
-</table>
 
 ## Contacto y apoyo:
 
