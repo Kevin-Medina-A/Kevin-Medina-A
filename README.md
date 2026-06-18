@@ -6,9 +6,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Kevin-Medina-A/Kevin-Medina-A/main/Imagen-Representativa.png" width="100%" alt="Kevin Medina Acosta">
-</p>
 
 ## 🧑‍💻 Sobre Mí
 
