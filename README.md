@@ -22,10 +22,11 @@ Estoy abierto a colaborar en proyectos, intercambiar ideas y conectar con profes
 | Categoría | Tecnologías y Herramientas |
 | :--- | :--- |
 | **Análisis de Datos & BI** | [![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/excel) [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/) [![Tableau](https://img.shields.io/badge/Tableau-E28743?style=flat-square&logo=tableau&logoColor=white)](https://www.tableau.com/) |
-| **Lenguajes & Bases de Datos** | [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/) [![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=databricks&logoColor=white)](#) |
-| **Gestión & Marcos Ágiles** | **Scrum** | **Agile** | **Historias de Usuario** | **Modelado de Sistemas (PlantUML/Mermaid)** |
+| **Lenguajes & Datos** | [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/) [![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=databricks&logoColor=white)](#) |
+| **Arquitectura & Modelado** | PlantUML · Mermaid |
+| **Metodologías** | Scrum · Agile · Historias de Usuario |
 | **Control de Versiones** | [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/) |
-| **Diseño & Prototipado** | [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/) [![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)](https://www.canva.com/) |
+| **Diseño** | [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/) [![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)](https://www.canva.com/) |
 
 ---
 
@@ -38,11 +39,8 @@ Estoy abierto a colaborar en proyectos, intercambiar ideas y conectar con profes
 
 ## 📁 Proyectos Destacados
 
-### 📈 [Auditoría Analítica de Datos Electorales](./auditoria-electoral-colombia)
-*Sistema de analítica de extremo a extremo diseñado bajo estándares de ingeniería de software para auditar conjuntos de datos públicos de mesas electorales (Colombia 2026).*
-* **Componentes:** Pipeline de automatización, análisis exploratorio de datos (EDA) en Jupyter Notebooks e identificación de anomalías estadísticas.
-* **Tecnologías:** Python, SQL, Git.
-
+### 📈 [Auditoría Analítica de Datos Electorales](https://github.com/Kevin-Medina-A/auditoria-electoral-colombia)
+*Sistema de análisis de datos electorales (Colombia 2026) orientado a auditoría de información de mesas.*
 
 ---
 
