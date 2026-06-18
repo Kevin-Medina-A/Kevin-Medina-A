@@ -1,32 +1,58 @@
-### ¡BIENVENIDO! Soy Kevin Medina Acosta🫱🏽‍🫲🏽 
-### Estudiante de Noveno Semestre de Ingeniería de Sistemas Enfocado al Desarrollo de Software y Analisis de Datos
+#¡BIENVENIDO! Soy Kevin Medina Acosta 🫱🏽‍🫲🏽
 
-<img src="https://raw.githubusercontent.com/Kevin-Medina-A/Kevin-Medina-A/main/Imagen-Representativa.png" width="100%" height="400" alt="Lo sentimos, hay problemas con esta imagen">
+### Ingeniero de Sistemas en formación
+**Especializado en Analítica de Datos**  
+📍 Colombia | ✉️ [kevinacostadavidmedina@gmail.com](mailto:kevinacostadavidmedina@gmail.com)
 
-#### 🎓 Soy un estudiante colombiano de Ingeniería de Sistemas, actualmente en mi noveno semestre y con 21 años.
-Apasionado por la tecnología más allá de lo superficial, me mueve una curiosidad constante por comprender cómo funcionan en detalle las herramientas y sistemas que usamos todos los días.
+---
 
-#### 💡 Me motiva aprender haciendo.
-Busco involucrarme en proyectos reales donde pueda aportar mis conocimientos, crecer profesionalmente y aprender de otros. Creo firmemente en el poder del trabajo en equipo como motor de innovación y éxito en el desarrollo de software.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kevin-Medina-A/Kevin-Medina-A/main/Imagen-Representativa.png" width="100%" alt="Kevin Medina Acosta">
+</p>
 
-#### 🤝 ¿Tienes un proyecto interesante o simplemente quieres intercambiar ideas?
-Estoy abierto a colaborar, explorar nuevas tecnologías y asumir desafíos. No dudes en contactarme: cada experiencia es una oportunidad para seguir creciendo.
+## 🧑‍💻 Sobre Mí
+
+Tengo 21 años y actualmente estudio Ingeniería de Sistemas. Mi interés principal está en los datos y en comprender cómo estos se generan, almacenan, procesan y utilizan dentro de los sistemas de información. Me atrae especialmente analizar la relación entre los datos, los procesos y las decisiones que se toman a partir de ellos.
+
+Al mismo tiempo, me interesa comprender la arquitectura que soporta esos procesos, así como la forma en que distintos componentes interactúan para garantizar que la información sea accesible, consistente y útil en distintos contextos.
+
+Estoy abierto a colaborar en proyectos, intercambiar ideas y conectar con profesionales y entusiastas de la tecnología.
+
+---
+
+## 🛠️ Stack Tecnológico & Metodologías
+
+| Categoría | Tecnologías y Herramientas |
+| :--- | :--- |
+| **Análisis de Datos & BI** | [![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/excel) [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/) [![Tableau](https://img.shields.io/badge/Tableau-E28743?style=flat-square&logo=tableau&logoColor=white)](https://www.tableau.com/) |
+| **Lenguajes & Bases de Datos** | [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/) [![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=databricks&logoColor=white)](#) |
+| **Gestión & Marcos Ágiles** | **Scrum** | **Agile** | **Historias de Usuario** | **Modelado de Sistemas (PlantUML/Mermaid)** |
+| **Control de Versiones** | [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/) |
+| **Diseño & Prototipado** | [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/) [![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)](https://www.canva.com/) |
+
+---
+
+## 📜 Certificaciones Destacadas
+
+* **Google Data Analytics Professional Certificate** – *Google (Coursera)*  
+  Formación integral en el ciclo de vida del dato: formulación de preguntas de negocio, preparación, limpieza avanzada, análisis estadístico y visualización de datos automatizada con un enfoque claro en la resolución de problemas corporativos.
+
+---
+
+## 📁 Proyectos Destacados
+
+### 📈 [Auditoría Analítica de Datos Electorales](./auditoria-electoral-colombia)
+*Sistema de analítica de extremo a extremo diseñado bajo estándares de ingeniería de software para auditar conjuntos de datos públicos de mesas electorales (Colombia 2026).*
+* **Componentes:** Pipeline de automatización, análisis exploratorio de datos (EDA) en Jupyter Notebooks e identificación de anomalías estadísticas.
+* **Tecnologías:** Python, SQL, Git.
 
 
-## CONOCIMIENTO EN:
+---
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://www.python.org/)
-</br>
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)](https://git-scm.com/)
-</br>
-[![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white&labelColor=101010)](https://www.figma.com/)
-</br>
-[![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white&labelColor=101010)](https://www.canva.com/)
-</br>
-[![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white&labelColor=101010)](#)
-</br>
-[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=101010)](https://powerbi.microsoft.com/)
-</br>
-[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=101010)](https://www.microsoft.com/excel)
-</br>
+## 📬 ¡Conectemos!
 
+¿Tienes un proyecto interesante, una vacante o simplemente quieres intercambiar ideas de ingeniería? No dudes en escribirme:
+
+* ✉️ **Correo Electrónico:** [kevinacostadavidmedina@gmail.com](mailto:kevinacostadavidmedina@gmail.com)
+* 💼 **LinkedIn:** [Tu Nombre de Usuario Aquí](https://linkedin.com/in/tu-usuario)
+* 🚀 **GitHub Portafolio:** ¡Estás aquí! Explora mis repositorios.
