@@ -1,7 +1,7 @@
 # ¡BIENVENIDO! Soy Kevin Medina Acosta 🫱🏽‍🫲🏽
 
 ### Ingeniero de Sistemas en formación
-**Especializado en Analítica de Datos**  
+**Enfocado en Analítica de Datos**  
 📍 Colombia | ✉️ [kevinacostadavidmedina@gmail.com](mailto:kevinacostadavidmedina@gmail.com)
 
 ---
