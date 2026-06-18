@@ -1,4 +1,4 @@
-#¡BIENVENIDO! Soy Kevin Medina Acosta 🫱🏽‍🫲🏽
+# ¡BIENVENIDO! Soy Kevin Medina Acosta 🫱🏽‍🫲🏽
 
 ### Ingeniero de Sistemas en formación
 **Especializado en Analítica de Datos**  
