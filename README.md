@@ -21,7 +21,7 @@ Estoy abierto a colaborar en proyectos, intercambiar ideas y conectar con profes
 
 | Categoría | Tecnologías y Herramientas |
 | :--- | :--- |
-| **Datos & Visualización** | [![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/excel) [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/) [![Tableau](https://img.shields.io/badge/Tableau-E28743?style=flat-square&logo=tableau&logoColor=white)](https://www.tableau.com/) |
+| **Datos & Visualización** | [![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/excel) [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/) [![Tableau](https://img.shields.io/badge/Tableau-E28743?style=flat-square&logo=tableau&logoColor=white)](https://www.tableau.com/) [![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white)](https://www.google.com/sheets/about/) |
 | **Lenguajes & Datos** | [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/) [![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=databricks&logoColor=white)](#) |
 | **Arquitectura & Modelado** | PlantUML · Mermaid |
 | **Metodologías** | Scrum |
