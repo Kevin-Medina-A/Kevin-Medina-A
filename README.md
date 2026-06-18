@@ -49,5 +49,4 @@ Estoy abierto a colaborar en proyectos, intercambiar ideas y conectar con profes
 ¿Tienes un proyecto interesante, una vacante o simplemente quieres intercambiar ideas de ingeniería? No dudes en escribirme:
 
 * ✉️ **Correo Electrónico:** [kevinacostadavidmedina@gmail.com](mailto:kevinacostadavidmedina@gmail.com)
-* 💼 **LinkedIn:** [Tu Nombre de Usuario Aquí](https://linkedin.com/in/tu-usuario)
-* 🚀 **GitHub Portafolio:** ¡Estás aquí! Explora mis repositorios.
+* 💼 **LinkedIn:** [Kevin David Medina Acosta](www.linkedin.com/in/kevin-david-medina-acosta-ba44031b5)
