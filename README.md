@@ -32,7 +32,7 @@ Estoy abierto a colaborar en proyectos, intercambiar ideas y conectar con profes
 
 ## 📜 Certificaciones Destacadas
 
-* **Google Data Analytics Professional Certificate** – *Google (Coursera)*  
+* **Google Data Analytics Certificate** – *Google (Coursera)*  
   Formación integral en el ciclo de vida del dato: formulación de preguntas de negocio, preparación, limpieza avanzada, análisis estadístico y visualización de datos automatizada con un enfoque claro en la resolución de problemas corporativos.
 
 ---
